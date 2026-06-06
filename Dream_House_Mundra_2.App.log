@@ -1,0 +1,43 @@
+06/05/2026 21:43:38	Reading UID database.
+06/05/2026 21:43:38	Start loading STAAD model.
+06/05/2026 21:43:38	Reading model file.
+06/05/2026 21:43:38	Reading model file is complete.
+06/05/2026 21:43:38	Processing support.
+06/05/2026 21:43:38	Processing springs.
+06/05/2026 21:43:38	Processing properties.
+06/05/2026 21:43:38	Processing physical properties.
+06/05/2026 21:43:38	Processing constants.
+06/05/2026 21:43:38	Processing BETA constants.
+06/05/2026 21:43:38	Processing hidden analytical member loads.
+06/05/2026 21:43:38	Processing command list for member release.
+06/05/2026 21:43:38	Processing command list for member offset.
+06/05/2026 21:43:38	Processing command list for member specs (cracked).
+06/05/2026 21:43:38	Processing command list for member specs (axial).
+06/05/2026 21:43:38	Processing command list for element release.
+06/05/2026 21:43:38	Processing command list for element offset.
+06/05/2026 21:43:39	Processing command list for element plate stress directive.
+06/05/2026 21:43:39	Processing parameter for Chinese wind load case.
+06/05/2026 21:43:39	End Processing command list.
+06/05/2026 21:43:39	End loading STAAD model.
+06/05/2026 21:43:39	Start Post Analysis method
+06/05/2026 21:43:39	Removed all hidden plates from surfaces
+06/05/2026 21:43:39	Removed all hidden plates
+06/05/2026 21:43:39	Removed all hidden nodes
+06/05/2026 21:43:39	Loading results from MSH file...
+06/05/2026 21:43:39	Building result indices...
+06/05/2026 21:43:39	Set analysis report setup data
+06/05/2026 21:43:39	Starting page setup...
+06/05/2026 21:43:39	Page setup completed
+06/05/2026 21:43:39	Setting available workflows...
+06/05/2026 21:43:39	Post analysis method ends
+06/05/2026 21:44:06	Start Post Analysis method
+06/05/2026 21:44:06	Removed all hidden plates from surfaces
+06/05/2026 21:44:06	Removed all hidden plates
+06/05/2026 21:44:06	Removed all hidden nodes
+06/05/2026 21:44:06	Loading results from MSH file...
+06/05/2026 21:44:06	Building result indices...
+06/05/2026 21:44:06	Set analysis report setup data
+06/05/2026 21:44:06	Starting page setup...
+06/05/2026 21:44:06	Page setup completed
+06/05/2026 21:44:06	Setting available workflows...
+06/05/2026 21:44:06	Post analysis method ends
